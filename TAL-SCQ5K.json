@@ -1,0 +1,1 @@
+{"en":{"train":{"meta":"TAL-SCQ5K-EN/TAL-SCQ5K-EN_train.jsonl","file":""},"test":{"meta":"TAL-SCQ5K-EN/TAL-SCQ5K-EN_test.jsonl","file":""},"validation":{"meta":"","file":""}},"cn":{"train":{"meta":"TAL-SCQ5K-CN/TAL-SCQ5K-CN_train.jsonl","file":""},"test":{"meta":"TAL-SCQ5K-EN/TAL-SCQ5K-CN_test.jsonl","file":""},"validation":{"meta":"","file":""}}}
